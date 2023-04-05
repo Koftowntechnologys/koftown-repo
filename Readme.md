@@ -6,6 +6,6 @@ Isaac JaCoCo
 
 Patrick Tilde (~) (pending review hahahaha)
 
-Theophilus LDAP (pending review hahahahaha)
+Theophilus Nginx
 
 Emmanuel Shebang!
