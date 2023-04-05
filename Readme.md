@@ -6,6 +6,6 @@ Isaac JaCoCo
 
 Patrick Tilde (~) (pending review hahahaha)
 
-Theo (nick name pending)
+Theophilus LDAP (pending review hahahahaha)
 
 Emmanuel Shebang!
