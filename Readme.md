@@ -4,7 +4,7 @@ Benjamin Groovy
 
 Isaac JaCoCo
 
-Patrick (nick name pending)
+Patrick Tilde (~) (pending review hahahaha)
 
 Theo (nick name pending)
 
