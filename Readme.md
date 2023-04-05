@@ -8,4 +8,4 @@ Patrick (nick name pending)
 
 Theo (nick name pending)
 
-Emma Shebang!
+Emmanuel Shebang!
