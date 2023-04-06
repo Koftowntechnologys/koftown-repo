@@ -146,6 +146,10 @@
     background: #F5F5F5;
     color: #444;
 }
+.uk-link-reset a,a.uk-link-reset {
+    color: inherit!important;
+    text-decoration: none!important
+}
 
 
 </style>
