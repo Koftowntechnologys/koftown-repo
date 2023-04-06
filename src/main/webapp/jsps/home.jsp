@@ -32,6 +32,62 @@
     gap: 15px;
     align-items: center
 }
+.uk-navbar-item {
+    padding: 0 0;
+    color: #666
+}
+.uk-logo {
+    font-size: 24px;
+    font-family: ProximaNova,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #222;
+    text-decoration: none
+} 
+
+.uk-navbar-center:only-child {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative
+}
+
+.uk-navbar-center:not(:only-child) {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: max-content;
+    box-sizing: border-box;
+    z-index: 990
+}
+
+.uk-navbar-center-left,.uk-navbar-center-right {
+    position: absolute;
+    top: 0
+}
+
+.uk-navbar-center-left {
+    right: calc(100% + 15px)
+}
+
+.uk-navbar-center-right {
+    left: calc(100% + 15px)
+}
+
+[class*=uk-navbar-center-] {
+    width: max-content;
+    box-sizing: border-box
+}
+
+.uk-navbar-nav {
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.uk-navbar-center:only-child,.uk-navbar-left,.uk-navbar-right {
+    flex-wrap: wrap
+}
 </style>
 
 </head>
