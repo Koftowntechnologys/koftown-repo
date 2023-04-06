@@ -6,8 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Koftowntech - Home Page</title>
 <link href="images/koftownlogo.png" rel="icon">
-<link rel="stylesheet" href="docs.css">
-<link rel="stylesheet" href="theme.css">
+<link rel="stylesheet" href="../docs.css">
+<link rel="stylesheet" href="../theme.css">
 </head>
 
 	<body data-new-gr-c-s-check-loaded="14.1102.0" data-gr-ext-installed="">
