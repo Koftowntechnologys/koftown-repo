@@ -88,6 +88,66 @@
 .uk-navbar-center:only-child,.uk-navbar-left,.uk-navbar-right {
     flex-wrap: wrap
 }
+
+@media (max-width: 959px) {
+    .uk-visible\@m {
+        display:none!important
+    }
+}
+.tm-middle { background: #fff; }
+.uk-container {
+    display: flow-root;
+    box-sizing: content-box;
+    max-width: 1380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.uk-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.tm-sidebar {
+        margin-right: -1px !important;
+        border-right: 1px solid #E5E5E5;
+    }
+	.uk-width-1-4 {
+    width: 25%
+}
+
+.tm-nav > li > a { color: #777; }
+
+/* Hover */
+.tm-nav > li > a:hover,
+.tm-nav > li > a:focus,
+.tm-nav > li.uk-active > a  {
+    background: #F5F5F5;
+    color: #444;
+}
+
+/* Sub-object: `nav-header` */
+.tm-nav .uk-nav-header {
+    color: #222;
+    font-weight: normal;
+}
+.tm-navbar .uk-navbar-nav > li.uk-active > a {
+    background-color: #2BA3D4;
+    color: #FFF;
+}
+.tm-nav > li > a:hover,
+.tm-nav > li > a:focus,
+.tm-nav > li.uk-active > a  {
+    background: #F5F5F5;
+    color: #444;
+}
+
+
 </style>
 
 </head>
