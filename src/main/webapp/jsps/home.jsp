@@ -8,6 +8,32 @@
 <link href="images/koftownlogo.png" rel="icon">
 <link rel="stylesheet" href="/docs.css">
 <link rel="stylesheet" href="theme.css">
+<style>
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #f8f8f8
+}
+.uk-container-expand {
+    max-width: none
+}
+
+.uk-container-expand-left {
+    margin-left: 0
+}
+
+.uk-container-expand-right {
+    margin-right: 0
+}
+.uk-navbar {
+    display: flex;
+    position: relative
+}
+.uk-navbar-left,.uk-navbar-right,[class*=uk-navbar-center] {
+    display: flex;
+    gap: 15px;
+    align-items: center
+}
+</style>
+
 </head>
 
 	<body data-new-gr-c-s-check-loaded="14.1102.0" data-gr-ext-installed="">
