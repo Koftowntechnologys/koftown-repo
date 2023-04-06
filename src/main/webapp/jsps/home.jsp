@@ -55,7 +55,7 @@
 										<br> This story was put together by:</p>
 										<li><a href="/docs/ben.html">Ben (Benjamin Groovy)</a></li>
 										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo)</a></li>
-										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
+										<li><a href="/docs/emma.html">Emmanuel ( DevOps Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( aka ngnix )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps Commando )</a></li>
 
