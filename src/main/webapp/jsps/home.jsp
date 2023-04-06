@@ -53,7 +53,7 @@
 			
 										<p class="uk-article-lead">This is a story from Africa about five warriors from different parts of africa with diverse backgrounds and techniques caming together to defend their kingdom against an impending invasion.<br> 
 										<br> This story was put together by:</p>
-										<li><a href="/docs/ben.html">Ben ( Son of Man )</a></li>
+										<li><a href="/docs/ben.html">Ben (Benjamin Groovy)</a></li>
 										<li><a href="/docs/isaac.html">Isaac ( The One )</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Messi )</a></li>
