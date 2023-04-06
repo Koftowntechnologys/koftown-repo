@@ -4,7 +4,7 @@ Benjamin Groovy
 
 Isaac JaCoCo
 
-Patrick Tilde (~) (pending review hahahaha)
+Patrick Tilde
 
 Theophilus Nginx
 
