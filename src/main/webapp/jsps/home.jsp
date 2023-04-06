@@ -57,6 +57,7 @@
 										<li><a href="/docs/isaac.html">Isaac ( The One )</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Messi )</a></li>
+										<li><a href="/docs/pat.html">Pat ( DevOps Commando )</a></li>
 
 			
 										<hr class="uk-article-divider">
