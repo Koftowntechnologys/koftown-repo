@@ -208,7 +208,7 @@
 			
 										<hr class="uk-article-divider">
 			
-										<h2 id="masai"><a class="uk-link-reset">Masai Warrior</a></h2>
+										<h2 id="masai"><a class="uk-link-reset">Benjamin Groovy</a></h2>
 									<div class="uk-overflow-container">
 											<p> Masai warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
 												Impi formation: The Zulu warriors fought in a tight formation known as the "impi." This formation allowed them to surround and overwhelm their enemies quickly and efficiently.
@@ -219,7 +219,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="zulu"><a class="uk-link-reset">Zulu Warrior</a></h2>
+										<h2 id="zulu"><a class="uk-link-reset">The One AKA JaCoCo</a></h2>
 									<div class="uk-overflow-container">
 											<p> Zulu warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
 												Impi formation: The Zulu warriors fought in a tight formation known as the "impi." This formation allowed them to surround and overwhelm their enemies quickly and efficiently.
@@ -230,7 +230,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="tuareg"><a class="uk-link-reset">Tuareg warrior</a></h2>
+										<h2 id="tuareg"><a class="uk-link-reset">DevOps Professor</a></h2>
 									<div class="uk-overflow-container">
 											<p> The Tuareg warrior's name was Aminou, which means "faithful" in his native language. Aminou was born into a family of nomads and grew up wandering the Sahara desert. He learned how to survive in the harsh environment and developed a deep respect for the natural world.
 												From a young age, Aminou was trained in the art of combat by his father and uncles. They taught him how to use a curved dagger, a traditional Tuareg weapon that was both versatile and deadly. Aminou honed his skills over the years, becoming a master of stealth and ambush tactics.
@@ -242,7 +242,17 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="berber"><a class="uk-link-reset">Berber warrior</a></h2>
+										<h2 id="berber"><a class="uk-link-reset">DevOps Messi</a></h2>
+									<div class="uk-overflow-container">
+											<p> The Berbers are indigenous herders found in North Africa. Their population exists in clusters from the Pacific in Morocco to the Siwa Oasis in Egypt, with a large concentration in the middle of the Sahara Desert straddling the borders of northern Niger Tunisia and Libya.
+												Berber is a large, nonhomogenous cultural group that encompasses most of the culture and history of northern Africa, with the unifying cultural force being a shared language and Berber heritage. The Berber language is believed to have spread out from the Nile Valley in Egypt around 2000 BCE as people moved to settle the land of Northern Africa. 
+												These are the people that the Greeks, Carthaginians, and Romans encountered when those cultures made first contact with the African coastline. The Carthaginians maintained a military presence in a region called Mauretania from around the 6th century to the 3rd century BCE before being absorbed by the Roman territory of Numidia in 203 BCE. 
+												Numidian horsemanship and breeding influenced Roman cavalry tactics and development; and Numidian cavalry generals, like Maharbal under Hannibal, proved their tactical brilliance and mastery of horsemanship.</p>
+										</div>
+
+										<hr class="uk-article-divider">
+			
+										<h2 id="berber"><a class="uk-link-reset">DevOps striker</a></h2>
 									<div class="uk-overflow-container">
 											<p> The Berbers are indigenous herders found in North Africa. Their population exists in clusters from the Pacific in Morocco to the Siwa Oasis in Egypt, with a large concentration in the middle of the Sahara Desert straddling the borders of northern Niger Tunisia and Libya.
 												Berber is a large, nonhomogenous cultural group that encompasses most of the culture and history of northern Africa, with the unifying cultural force being a shared language and Berber heritage. The Berber language is believed to have spread out from the Nile Valley in Egypt around 2000 BCE as people moved to settle the land of Northern Africa. 
