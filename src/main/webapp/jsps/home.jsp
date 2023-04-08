@@ -201,7 +201,7 @@
 										<br> This story was put together by the following DevOps Engineers from Koftown Technology Inc.:</p>
 										<li><a href="/docs/ben.html">Ben (Benjamin Groovy)</a></li>
 										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo Make Ghana Great Again)</a></li>
-										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
+										<li><a href="/docs/emma.html">Emmanuel ( DevOps Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Koftown will be great )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps striker )</a></li>
 
