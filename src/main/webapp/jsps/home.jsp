@@ -6,8 +6,154 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Koftowntech - Home Page</title>
 <link href="images/koftownlogo.png" rel="icon">
-<link rel="stylesheet" href="/src/main/webapp/jsps/css/docs.css">
-<link rel="stylesheet" href="/src/main/webapp/jsps/css/theme.css">
+<link rel="stylesheet" href="/docs.css">
+<link rel="stylesheet" href="theme.css">
+<style>
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #f8f8f8
+}
+.uk-container-expand {
+    max-width: none
+}
+
+.uk-container-expand-left {
+    margin-left: 0
+}
+
+.uk-container-expand-right {
+    margin-right: 0
+}
+.uk-navbar {
+    display: flex;
+    position: relative
+}
+.uk-navbar-left,.uk-navbar-right,[class*=uk-navbar-center] {
+    display: flex;
+    gap: 15px;
+    align-items: center
+}
+.uk-navbar-item {
+    padding: 0 0;
+    color: #666
+}
+.uk-logo {
+    font-size: 24px;
+    font-family: ProximaNova,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #222;
+    text-decoration: none
+} 
+
+.uk-navbar-center:only-child {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative
+}
+
+.uk-navbar-center:not(:only-child) {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: max-content;
+    box-sizing: border-box;
+    z-index: 990
+}
+
+.uk-navbar-center-left,.uk-navbar-center-right {
+    position: absolute;
+    top: 0
+}
+
+.uk-navbar-center-left {
+    right: calc(100% + 15px)
+}
+
+.uk-navbar-center-right {
+    left: calc(100% + 15px)
+}
+
+[class*=uk-navbar-center-] {
+    width: max-content;
+    box-sizing: border-box
+}
+
+.uk-navbar-nav {
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.uk-navbar-center:only-child,.uk-navbar-left,.uk-navbar-right {
+    flex-wrap: wrap
+}
+
+@media (max-width: 959px) {
+    .uk-visible\@m {
+        display:none!important
+    }
+}
+.tm-middle { background: #fff; }
+.uk-container {
+    display: flow-root;
+    box-sizing: content-box;
+    max-width: 1380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.uk-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.tm-sidebar {
+        margin-right: -1px !important;
+        border-right: 1px solid #E5E5E5;
+    }
+	.uk-width-1-4 {
+    width: 25%
+}
+
+.tm-nav > li > a { color: #777; }
+
+/* Hover */
+.tm-nav > li > a:hover,
+.tm-nav > li > a:focus,
+.tm-nav > li.uk-active > a  {
+    background: #F5F5F5;
+    color: #444;
+}
+
+/* Sub-object: `nav-header` */
+.tm-nav .uk-nav-header {
+    color: #222;
+    font-weight: normal;
+}
+.tm-navbar .uk-navbar-nav > li.uk-active > a {
+    background-color: #2BA3D4;
+    color: #FFF;
+}
+.tm-nav > li > a:hover,
+.tm-nav > li > a:focus,
+.tm-nav > li.uk-active > a  {
+    background: #F5F5F5;
+    color: #444;
+}
+.uk-link-reset a,a.uk-link-reset {
+    color: inherit!important;
+    text-decoration: none!important
+}
+
+
+</style>
+
 </head>
 
 	<body data-new-gr-c-s-check-loaded="14.1102.0" data-gr-ext-installed="">
@@ -54,7 +200,7 @@
 										<p class="uk-article-lead">This is a story from Africa about five warriors from different parts of africa with diverse backgrounds and techniques caming together to defend their kingdom against an impending invasion.<br> 
 										<br> This story was put together by:</p>
 										<li><a href="/docs/ben.html">Ben ( Son of Man )</a></li>
-										<li><a href="/docs/isaac.html">Isaac (The One AKA JaCoCo Make America great again)</a></li>
+										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo)</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Messi )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps Commando )</a></li>
