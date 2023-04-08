@@ -203,7 +203,7 @@
 										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo Make Ghana Great Again)</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( The Professor )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Koftown will be great )</a></li>
-										<li><a href="/docs/pat.html">Pat ( DevOps Commando )</a></li>
+										<li><a href="/docs/pat.html">Pat ( DevOps striker )</a></li>
 
 			
 										<hr class="uk-article-divider">
