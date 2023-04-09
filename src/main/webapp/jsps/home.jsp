@@ -202,7 +202,7 @@
 										<li><a href="/docs/ben.html">Ben (Benjamin Groovy 1)</a></li>
 										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo Make Ghana Great Again)</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( DevOps Professor )</a></li>
-										<li><a href="/docs/theo.html">Theo ( DevOps Koftown will be great )</a></li>
+										<li><a href="/docs/theo.html">Theo ( DevOps Koftown all the way )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps striker )</a></li>
 
 			
