@@ -224,11 +224,16 @@
 			
 										<h2 id="zulu"><a class="uk-link-reset">The One AKA JaCoCo</a></h2>
 									<div class="uk-overflow-container">
-											<p> Zulu warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
-												Impi formation: The Zulu warriors fought in a tight formation known as the "impi." This formation allowed them to surround and overwhelm their enemies quickly and efficiently.
-												Use of shields: Zulu warriors were skilled in using their shields both for defense and offense. They used the shield to deflect incoming attacks and also to bash their opponents.
-												Spear throwing: The Zulu warriors were known for their deadly accuracy with spears. They could throw their spears over long distances with great precision, often hitting their target.
-												Maasai warriors are known to be skilled intimidators</p>
+											<p> An end-to-end CI/CD (Continuous Integration/Continuous Deployment) pipeline is a process that automates the building, testing, and deployment of software applications. It involves a series of steps that enable developers to continuously integrate new code into the main codebase, test it, and deploy it into production, all without any manual intervention.
+												The following are the stages of an end-to-end CI/CD pipeline:
+												1.	Code changes: Developers write code and push it to a source code repository like Git.
+												2.	Continuous integration: The CI process automatically builds and tests the code changes each time they are pushed to the repository. This ensures that new changes are compatible with the existing codebase and do not break any existing functionality.
+												3.	Artifact creation: After the code passes all tests in the CI process, the build artifacts (e.g., compiled code, Docker images) are created and stored in a repository.
+												4.	Continuous delivery: The CD process automatically deploys the build artifacts to an environment that closely mimics the production environment, such as a staging or testing environment. This allows developers to test the application in a realistic environment before deploying it to production.
+												5.	User acceptance testing (UAT): The UAT stage involves testing the application in a production-like environment by actual users, such as beta testers or customers. This stage is optional but helps ensure that the application meets the user's needs.
+												6.	Continuous deployment: If the application passes UAT, the CD process automatically deploys the application to production.
+												7.	Monitoring and feedback: Once the application is deployed to production, it is continuously monitored for any issues or bugs. Any issues found are reported to the development team, who then make the necessary code changes and go back to step 1.
+												This end-to-end CI/CD pipeline allows developers to quickly and safely deploy new code changes to production, reducing the time it takes to release new features and improving the overall quality of the application.</p>
 										</div>
 
 										<hr class="uk-article-divider">
