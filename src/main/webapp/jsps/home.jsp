@@ -210,7 +210,10 @@
 			
 										<h2 id="masai"><a class="uk-link-reset">Benjamin Groovy</a></h2>
 									<div class="uk-overflow-container">
-											<p> Masai warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
+											<p> How we reolved the error in the Build on Jenkins:
+										        Some frequent errors in the Jenkins - agent configurations occurs when the usage option that Controls how Jenkins schedules builds on that node is set to use this node "as much as possible" instead of enabling "only build job with label expression matching the node" 
+												assign to nodes that match the exact agent".
+												Masai warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
 												Impi formation: The Zulu warriors fought in a tight formation known as the "impi." This formation allowed them to surround and overwhelm their enemies quickly and efficiently.
 												Use of shields: Zulu warriors were skilled in using their shields both for defense and offense. They used the shield to deflect incoming attacks and also to bash their opponents.
 												Spear throwing: The Zulu warriors were known for their deadly accuracy with spears. They could throw their spears over long distances with great precision, often hitting their target.
