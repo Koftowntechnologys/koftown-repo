@@ -227,7 +227,7 @@
 										<li><a href="/docs/ben.html">Ben (Benjamin Groovy 4)</a></li>
 										<li><a href="/docs/isaac.html">Isaac ( The One AKA JaCoCo Make Ghana Great Again)</a></li>
 										<li><a href="/docs/emma.html">Emmanuel ( DevOps Professor is back )</a></li>
-										<li><a href="/docs/theo.html">Theo ( DevOps Koftown Messi )</a></li>
+										<li><a href="/docs/theo.html">Theo ( DevOps Koftown Messi, i will commit my end to end CI/CD tomorrow )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps striker )</a></li>
 
 			
