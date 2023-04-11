@@ -248,13 +248,13 @@
 									<div class="uk-overflow-container">
 											<p> An end-to-end CI/CD (Continuous Integration/Continuous Deployment) pipeline is a process that automates the building, testing, and deployment of software applications. It involves a series of steps that enable developers to continuously integrate new code into the main codebase, test it, and deploy it into production, all without any manual intervention.
 												The following are the stages of an end-to-end CI/CD pipeline:
-												1.	Code changes: Developers write code and push it to a source code repository like Git.
-												2.	Continuous integration: The CI process automatically builds and tests the code changes each time they are pushed to the repository. This ensures that new changes are compatible with the existing codebase and do not break any existing functionality.
-												3.	Artifact creation: After the code passes all tests in the CI process, the build artifacts (e.g., compiled code, Docker images) are created and stored in a repository.
-												4.	Continuous delivery: The CD process automatically deploys the build artifacts to an environment that closely mimics the production environment, such as a staging or testing environment. This allows developers to test the application in a realistic environment before deploying it to production.
-												5.	User acceptance testing (UAT): The UAT stage involves testing the application in a production-like environment by actual users, such as beta testers or customers. This stage is optional but helps ensure that the application meets the user's needs.
-												6.	Continuous deployment: If the application passes UAT, the CD process automatically deploys the application to production.
-												7.	Monitoring and feedback: Once the application is deployed to production, it is continuously monitored for any issues or bugs. Any issues found are reported to the development team, who then make the necessary code changes and go back to step 1.
+												1.	Code changes: Developers write code and push it to a source code repository like Git.<br>
+												2.	Continuous integration: The CI process automatically builds and tests the code changes each time they are pushed to the repository. This ensures that new changes are compatible with the existing codebase and do not break any existing functionality.<br>
+												3.	Artifact creation: After the code passes all tests in the CI process, the build artifacts (e.g., compiled code, Docker images) are created and stored in a repository.<br>
+												4.	Continuous delivery: The CD process automatically deploys the build artifacts to an environment that closely mimics the production environment, such as a staging or testing environment. This allows developers to test the application in a realistic environment before deploying it to production.<br>
+												5.	User acceptance testing (UAT): The UAT stage involves testing the application in a production-like environment by actual users, such as beta testers or customers. This stage is optional but helps ensure that the application meets the user's needs.<br>
+												6.	Continuous deployment: If the application passes UAT, the CD process automatically deploys the application to production.<br>
+												7.	Monitoring and feedback: Once the application is deployed to production, it is continuously monitored for any issues or bugs. Any issues found are reported to the development team, who then make the necessary code changes and go back to step 1.<br>
 												This end-to-end CI/CD pipeline allows developers to quickly and safely deploy new code changes to production, reducing the time it takes to release new features and improving the overall quality of the application.</p>
 										</div>
 
@@ -262,12 +262,38 @@
 			
 										<h2 id="tuareg"><a class="uk-link-reset">DevOps Professor</a></h2>
 									<div class="uk-overflow-container">
-											<p> The Tuareg warrior's name was Aminou, which means "faithful" in his native language. Aminou was born into a family of nomads and grew up wandering the Sahara desert. He learned how to survive in the harsh environment and developed a deep respect for the natural world.
-												From a young age, Aminou was trained in the art of combat by his father and uncles. They taught him how to use a curved dagger, a traditional Tuareg weapon that was both versatile and deadly. Aminou honed his skills over the years, becoming a master of stealth and ambush tactics.
-												When the call to arms came, Aminou was eager to join the fight. He saw it as an opportunity to defend his people and their way of life. He joined forces with the other two warriors and set out on a mission to defeat their common enemy.
-												Aminou's knowledge of the desert terrain proved invaluable. He was able to guide the group through treacherous sand dunes and rocky outcroppings, avoiding enemy patrols and traps along the way. He also used his skills in stealth and ambush to take out enemy scouts and disrupt their supply lines.
-												Despite his quiet nature, Aminou was fiercely loyal to his comrades. He risked his own life to protect them, and his quick reflexes and deadly accuracy with his dagger saved them on more than one occasion.
-												In the end, Aminou and his fellow warriors emerged victorious. They had defeated their enemy and secured their homeland. Aminou returned to his nomadic lifestyle, but he was forever changed by his experiences as a warrior. He knew that he would always be ready to answer the call to defend his people if it ever came again.</p>
+											<p> As a Senior DevOps Engineer my team and I are responsible for developing, building, Testing, Securing, Backing Up and deploying software application. 
+											Because majority of our clients are fintech companies, Our environment relay heavily on  java based open sources tools such as Maven. Tomcat, SonaQube , 
+											Jenkins , Nexus , Nginx just to name a few because of their availability reliability and security. <br> 
+											In the development stage, programmers commit their code to GitHub or Gitlab or other SCM depending on the client and their preference but majority prefer GitHub.
+											In this Stage our preferred CI/CD tool Jenkins will pull the code from the SCM to do a build using Jenkins - Github integration strategy. My responsibilities as a DevOps Engineer includes 
+
+											<li><a>1. Configuring webhooks: Setting up GitHub webhooks to trigger Jenkins jobs automatically whenever specific events occur in the GitHub repository, such as pushing new commits, creating pull requests, or merging branches.</a></li>
+											<li><a>2. Installing and configuring plugins: Installing and configuring the necessary Jenkins plugins, such as GitHub Integration Plugin, Git Plugin, and GitHub Branch Source Plugin, to enable smooth communication and integration between Jenkins and GitHub.</a></li>
+											<li><a>3. Building CI/CD pipelines: Creating and managing Jenkins pipelines that automatically build, test, and deploy code changes from GitHub repositories using Jenkinsfile or Pipeline scripts.</a></li>
+											<li><a>4. Pull request integration: Configuring Jenkins jobs to build and test code changes submitted through GitHub pull requests, providing feedback on build status and test results directly within the pull request.</a></li>
+											<li><a>5. Multi-branch pipelines: Setting up multi-branch pipelines in Jenkins to build and test code from different branches in the GitHub repository, enabling parallel development and streamlined integration of code changes.</a></li>
+											<li><a>6. Status reporting: Integrating Jenkins build status and other relevant information back into GitHub, displaying the build status of commits and pull requests to keep the team informed about the success or failure of builds.</a></li>
+											<li><a>7. Access control and security: Configuring secure access to the GitHub repository using SSH keys or access tokens, and ensuring Jenkins jobs have the appropriate permissions to interact with the repository.</a></li>
+											<li><a>8. Troubleshooting and optimization: Diagnosing and resolving issues related to Jenkins-GitHub integration, optimizing build performance, and implementing best practices to ensure smooth, reliable, and efficient workflows.</a></li>
+												<br>
+											My experirnce in Git also includes <br> 
+											<li><a>1. Repository management: Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
+											<li><a>2. Branching and merging: Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
+											<li><a>3. Conflict resolution: Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
+											<li><a>4. Committing and reviewing code: Making code changes, staging, and committing them to the repository, as well as reviewing team members' code through pull requests.</a></li>
+											<li><a>5. Tagging and versioning: Using tags to mark specific commits, such as releases or important milestones, and managing software versions through Git.</a></li>
+											<li><a>6. Automation and scripting: Writing scripts (e.g., using Bash or Python) to automate Git operations, enforce code quality standards, or perform other tasks related to repository management.</a></li>
+											<li><a>7. Git best practices: Following best practices for commit messages, branch naming conventions, and repository organization to ensure a clean and maintainable codebase.</a></li>
+											<li><a>8. Collaboration with remote teams: Collaborating with geographically distributed teams using Git, managing code contributions,and addressing challenges related to working with remote repositories.</a></li>
+											<br>
+												Some challenges and troubleshooting issues I have faced in Jenkins are 
+												<p>
+												<li><a>Configuration issues: Misconfigurations in Jenkins jobs, plugins, or Git settings can lead to issues in the integration, such as failed builds, incorrect triggers, or inability to access repositories.</a></li>
+												<li><a>Security and access control: Managing secure access to Git repositories from Jenkins, using SSH keys or access tokens, can be challenging. Incorrectly configured access permissions may result in unauthorized access or inability to fetch code and push changes.</a></li>
+												<li><a>Maintaining build history and artifacts: Managing and storing build history and artifacts in a way that is easily accessible and doesn't consume excessive storage resources can be challenging, especially when dealing with a large number of builds and repositories.</a></li>
+												</p>
+											</p>
 										</div>
 
 										<hr class="uk-article-divider">
