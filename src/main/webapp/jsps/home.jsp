@@ -210,10 +210,32 @@
 			
 										<h2 id="masai"><a class="uk-link-reset">Benjamin Groovy</a></h2>
 									<div class="uk-overflow-container">
-											<p> How we reolved the error in the Build on Jenkins:
-										        Some frequent errors in the Jenkins - agent configurations occurs when the usage option that Controls how Jenkins schedules builds on that node is set to use this node "as much as possible" instead of enabling "only build job with label expression matching the node" 
-												assign to nodes that match the exact agent.
-												image.png
+											<p>  This is a work in progress..lol  
+												    In my environment, Jenkins is the tool that help us to automate most of our processes.
+												In automation, Jenkins help with continous integration/continous Delivery process in that 
+												anytime developers commit codes into Github, Jenkins is able to pull those codes to make a 
+												build using maven as a build too to create artifact(war ear,jah files) or test to ensure that 
+												it meet certain code quality threshold by using sonarQube. Once the build is done, 
+												artifacts can be created in the form of war, ear or Jar files as stated earlier.
+												
+												This builds are pushed into an artifactory and in my environment we use Nexus/Jfrog.
+												So the process that help us to be able to pull codes, build/test and release the artifacts into an
+												artifactory constitute the continous integraton portion of the Jenkins automation process, ie. 
+												creating packages, ensuring it meet code quality,and then releasing the artifact into an artifactory.
+												Once the back up is created in Nexus, Jenkins now integrates with Tomcat for deployment. we conveniently deploy 
+												the artifacts to the client’s app saver either through a monolithic process or a Microservices. This process 
+												constitute the continous delivery section of the Jenkins automation process.
+												
+												Jenkins also helps us to deploy our artifact to a target environment using pipelines. we can deploy to 
+												different environments, that is dev, stage or production. In my environment, we have setup a freestyle
+												Jobs/projects. We can upgrade from freestyle project to maven project. 
+												
+												Monitoring plays a major role in our work environment. So in order to avoid manually monitoring each of the app savers,
+												we deploy the use of a monitoring tools like NEWRELIC, PROMETHEUS. APP DYNAMICS, NAGIOS, EFK, PLUNKS etc. – 
+												These monitoring tools monitors each of our application severs and once any issue is detected, an alert is generated to
+												our support team and once the support team is notified, they identify the source of the problem and generate a ticket using 
+												JIRA/CONFLUENCE to the appropriate team to fix the problem. 
+												
 												
 												
 												
