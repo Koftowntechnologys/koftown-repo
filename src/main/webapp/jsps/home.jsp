@@ -136,6 +136,9 @@
     color: #222;
     font-weight: normal;
 }
+.tm-nav>li.uk-active>a {
+    position: relative
+}
 .tm-navbar .uk-navbar-nav > li.uk-active > a {
     background-color: #2BA3D4;
     color: #FFF;
@@ -160,7 +163,19 @@
 .uk-article {
     display: flow-root
 }
+.tm-nav .uk-nav-header {
+    padding: 8px 0;
+    border-bottom: 1px solid #e5e5e5
+}
+.uk-hidden,[hidden] {
+    display: none!important
+}
 
+@media (min-width: 640px) {
+    .uk-hidden\@s {
+        display:none!important
+    }
+}
 
 </style>
 
