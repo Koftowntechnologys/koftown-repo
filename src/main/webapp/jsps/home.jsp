@@ -214,7 +214,7 @@
 												    In my environment, Jenkins is the tool that help us to automate most of our processes.
 												In automation, Jenkins help with continous integration/continous Delivery process in that 
 												anytime developers commit codes into Github, Jenkins is able to pull those codes to make a 
-												build using maven as a build too to create artifact(war ear,jah files) or test to ensure that 
+												build using maven as a build tool to create artifact(war ear,jah files) or test to ensure that 
 												it meet certain code quality threshold by using sonarQube. Once the build is done, 
 												artifacts can be created in the form of war, ear or Jar files as stated earlier.
 												
@@ -222,7 +222,7 @@
 												So the process that help us to be able to pull codes, build/test and release the artifacts into an
 												artifactory constitute the continous integraton portion of the Jenkins automation process, ie. 
 												creating packages, ensuring it meet code quality,and then releasing the artifact into an artifactory.
-												Once the back up is created in Nexus, Jenkins now integrates with Tomcat for deployment. we conveniently deploy 
+												Once the back up is created in Nexus and the CI Job succeeds, Jenkins now integrates with Tomcat for deployment,this will trigger the continous delivery (CD) Process. we conveniently deploy 
 												the artifacts to the client’s app saver either through a monolithic process or a Microservices. This process 
 												constitute the continous delivery section of the Jenkins automation process.
 												
