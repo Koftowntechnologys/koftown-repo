@@ -150,6 +150,16 @@
     color: inherit!important;
     text-decoration: none!important
 }
+.tm-main {
+        padding-left: 50px !important;
+        border-left: 1px solid #E5E5E5;
+    }
+	.uk-width-medium {
+    width: 300px
+}
+.uk-article {
+    display: flow-root
+}
 
 
 </style>
@@ -277,7 +287,7 @@
 											<li><a>7. Access control and security: Configuring secure access to the GitHub repository using SSH keys or access tokens, and ensuring Jenkins jobs have the appropriate permissions to interact with the repository.</a></li>
 											<li><a>8. Troubleshooting and optimization: Diagnosing and resolving issues related to Jenkins-GitHub integration, optimizing build performance, and implementing best practices to ensure smooth, reliable, and efficient workflows.</a></li>
 												<br>
-											My experirnce in Git also includes <br> 
+											My experience in Git also includes <br> 
 											<li><a>1. Repository management: Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
 											<li><a>2. Branching and merging: Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
 											<li><a>3. Conflict resolution: Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
