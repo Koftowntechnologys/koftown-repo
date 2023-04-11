@@ -108,7 +108,7 @@
 .uk-grid {
     display: flex;
     flex-wrap: nowrap;
-    margin: 0;
+    margin: 50px;
     padding: 0;
     list-style: none
 }
@@ -116,8 +116,9 @@
 .tm-sidebar {
         margin-right: -1px !important;
         border-right: 1px solid #E5E5E5;
-    }
-	.uk-width-1-4 {
+}
+	
+.uk-width-1-4 {
     width: 25%
 }
 
@@ -208,10 +209,11 @@
 									<ul class="tm-nav uk-nav" data-uk-nav="">
 			
 										<li class="uk-nav-header">List of Warriors </li>
-										<li class="uk-active"><a href="#masai" class="uk-link-reset">Masai Warrior</a></li>
-										<li><a href="#zulu">Zulu warrior</a></li>
-										<li><a href="#tuareg">Tuareg warrior</a></li>
-										<li><a href="#berber">Berber warrior</a></li>
+										<li class="uk-active"><a href="#benjamin" class="uk-link-reset">Benjamin Groovy</a></li>
+										<li><a href="#jacoco">The One AKA JaCoCo</a></li>
+										<li><a href="#prof">DevOps Professor</a></li>
+										<li><a href="#messi">DevOps Koftown Messi </a></li>
+										<li><a href="#striker">DevOps striker</a></li>
 
 									</ul>
 			
@@ -233,7 +235,7 @@
 			
 										<hr class="uk-article-divider">
 			
-										<h2 id="masai"><a class="uk-link-reset">Benjamin Groovy</a></h2>
+										<h2 id="benjamin"><a class="uk-link-reset">Benjamin Groovy</a></h2>
 									<div class="uk-overflow-container">
 											<p>  This is a work in progress..lol  
 												    In my environment, Jenkins is the tool that help us to automate most of our processes.
@@ -269,7 +271,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="zulu"><a class="uk-link-reset">The One AKA JaCoCo</a></h2>
+										<h2 id="jacoco"><a class="uk-link-reset">The One AKA JaCoCo</a></h2>
 									<div class="uk-overflow-container">
 											<p> An end-to-end CI/CD (Continuous Integration/Continuous Deployment) pipeline is a process that automates the building, testing, and deployment of software applications. It involves a series of steps that enable developers to continuously integrate new code into the main codebase, test it, and deploy it into production, all without any manual intervention.
 												The following are the stages of an end-to-end CI/CD pipeline:
@@ -285,7 +287,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="tuareg"><a class="uk-link-reset">DevOps Professor</a></h2>
+										<h2 id="prof"><a class="uk-link-reset">DevOps Professor</a></h2>
 									<div class="uk-overflow-container">
 											<p> As a Senior DevOps Engineer my team and I are responsible for developing, building, Testing, Securing, Backing Up and deploying software application. 
 											Because majority of our clients are fintech companies, Our environment relay heavily on  java based open sources tools such as Maven. Tomcat, SonaQube , 
@@ -293,24 +295,24 @@
 											In the development stage, programmers commit their code to GitHub or Gitlab or other SCM depending on the client and their preference but majority prefer GitHub.
 											In this Stage our preferred CI/CD tool Jenkins will pull the code from the SCM to do a build using Jenkins - Github integration strategy. My responsibilities as a DevOps Engineer includes 
 
-											<li><a>1. Configuring webhooks: Setting up GitHub webhooks to trigger Jenkins jobs automatically whenever specific events occur in the GitHub repository, such as pushing new commits, creating pull requests, or merging branches.</a></li>
-											<li><a>2. Installing and configuring plugins: Installing and configuring the necessary Jenkins plugins, such as GitHub Integration Plugin, Git Plugin, and GitHub Branch Source Plugin, to enable smooth communication and integration between Jenkins and GitHub.</a></li>
-											<li><a>3. Building CI/CD pipelines: Creating and managing Jenkins pipelines that automatically build, test, and deploy code changes from GitHub repositories using Jenkinsfile or Pipeline scripts.</a></li>
-											<li><a>4. Pull request integration: Configuring Jenkins jobs to build and test code changes submitted through GitHub pull requests, providing feedback on build status and test results directly within the pull request.</a></li>
-											<li><a>5. Multi-branch pipelines: Setting up multi-branch pipelines in Jenkins to build and test code from different branches in the GitHub repository, enabling parallel development and streamlined integration of code changes.</a></li>
-											<li><a>6. Status reporting: Integrating Jenkins build status and other relevant information back into GitHub, displaying the build status of commits and pull requests to keep the team informed about the success or failure of builds.</a></li>
-											<li><a>7. Access control and security: Configuring secure access to the GitHub repository using SSH keys or access tokens, and ensuring Jenkins jobs have the appropriate permissions to interact with the repository.</a></li>
-											<li><a>8. Troubleshooting and optimization: Diagnosing and resolving issues related to Jenkins-GitHub integration, optimizing build performance, and implementing best practices to ensure smooth, reliable, and efficient workflows.</a></li>
+											<li><a>Configuring webhooks: Setting up GitHub webhooks to trigger Jenkins jobs automatically whenever specific events occur in the GitHub repository, such as pushing new commits, creating pull requests, or merging branches.</a></li>
+											<li><a>Installing and configuring plugins: Installing and configuring the necessary Jenkins plugins, such as GitHub Integration Plugin, Git Plugin, and GitHub Branch Source Plugin, to enable smooth communication and integration between Jenkins and GitHub.</a></li>
+											<li><a>Building CI/CD pipelines: Creating and managing Jenkins pipelines that automatically build, test, and deploy code changes from GitHub repositories using Jenkinsfile or Pipeline scripts.</a></li>
+											<li><a>Pull request integration: Configuring Jenkins jobs to build and test code changes submitted through GitHub pull requests, providing feedback on build status and test results directly within the pull request.</a></li>
+											<li><a>Multi-branch pipelines: Setting up multi-branch pipelines in Jenkins to build and test code from different branches in the GitHub repository, enabling parallel development and streamlined integration of code changes.</a></li>
+											<li><a>Status reporting: Integrating Jenkins build status and other relevant information back into GitHub, displaying the build status of commits and pull requests to keep the team informed about the success or failure of builds.</a></li>
+											<li><a>Access control and security: Configuring secure access to the GitHub repository using SSH keys or access tokens, and ensuring Jenkins jobs have the appropriate permissions to interact with the repository.</a></li>
+											<li><a>Troubleshooting and optimization: Diagnosing and resolving issues related to Jenkins-GitHub integration, optimizing build performance, and implementing best practices to ensure smooth, reliable, and efficient workflows.</a></li>
 												<br>
 											My experience in Git also includes <br> 
-											<li><a>1. Repository management: Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
-											<li><a>2. Branching and merging: Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
-											<li><a>3. Conflict resolution: Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
-											<li><a>4. Committing and reviewing code: Making code changes, staging, and committing them to the repository, as well as reviewing team members' code through pull requests.</a></li>
-											<li><a>5. Tagging and versioning: Using tags to mark specific commits, such as releases or important milestones, and managing software versions through Git.</a></li>
-											<li><a>6. Automation and scripting: Writing scripts (e.g., using Bash or Python) to automate Git operations, enforce code quality standards, or perform other tasks related to repository management.</a></li>
-											<li><a>7. Git best practices: Following best practices for commit messages, branch naming conventions, and repository organization to ensure a clean and maintainable codebase.</a></li>
-											<li><a>8. Collaboration with remote teams: Collaborating with geographically distributed teams using Git, managing code contributions,and addressing challenges related to working with remote repositories.</a></li>
+											<li><a>Repository management: Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
+											<li><a>Branching and merging: Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
+											<li><a>Conflict resolution: Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
+											<li><a>Committing and reviewing code: Making code changes, staging, and committing them to the repository, as well as reviewing team members' code through pull requests.</a></li>
+											<li><a>Tagging and versioning: Using tags to mark specific commits, such as releases or important milestones, and managing software versions through Git.</a></li>
+											<li><a>Automation and scripting: Writing scripts (e.g., using Bash or Python) to automate Git operations, enforce code quality standards, or perform other tasks related to repository management.</a></li>
+											<li><a>Git best practices: Following best practices for commit messages, branch naming conventions, and repository organization to ensure a clean and maintainable codebase.</a></li>
+											<li><a>Collaboration with remote teams: Collaborating with geographically distributed teams using Git, managing code contributions,and addressing challenges related to working with remote repositories.</a></li>
 											<br>
 												Some challenges and troubleshooting issues I have faced in Jenkins are 
 												<p>
@@ -323,7 +325,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="berber"><a class="uk-link-reset">DevOps Messi</a></h2>
+										<h2 id="messi"><a class="uk-link-reset">DevOps Messi</a></h2>
 									<div class="uk-overflow-container">
 											<p> The Berbers are indigenous herders found in North Africa. Their population exists in clusters from the Pacific in Morocco to the Siwa Oasis in Egypt, with a large concentration in the middle of the Sahara Desert straddling the borders of northern Niger Tunisia and Libya.
 												Berber is a large, nonhomogenous cultural group that encompasses most of the culture and history of northern Africa, with the unifying cultural force being a shared language and Berber heritage. The Berber language is believed to have spread out from the Nile Valley in Egypt around 2000 BCE as people moved to settle the land of Northern Africa. 
@@ -333,7 +335,7 @@
 
 										<hr class="uk-article-divider">
 			
-										<h2 id="berber"><a class="uk-link-reset">DevOps striker</a></h2>
+										<h2 id="striker"><a class="uk-link-reset">DevOps striker</a></h2>
 									<div class="uk-overflow-container">
 											<p> The Berbers are indigenous herders found in North Africa. Their population exists in clusters from the Pacific in Morocco to the Siwa Oasis in Egypt, with a large concentration in the middle of the Sahara Desert straddling the borders of northern Niger Tunisia and Libya.
 												Berber is a large, nonhomogenous cultural group that encompasses most of the culture and history of northern Africa, with the unifying cultural force being a shared language and Berber heritage. The Berber language is believed to have spread out from the Nile Valley in Egypt around 2000 BCE as people moved to settle the land of Northern Africa. 
