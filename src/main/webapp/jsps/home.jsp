@@ -222,7 +222,7 @@
 			
 									<article class="uk-article">
 
-										<h1>African Warriors</h1>
+										<h1>Koftown DevOps Journey</h1>
 			
 										<p class="uk-article-lead">This is a story from Africa about five warriors from different parts of africa with diverse backgrounds and techniques caming together to defend their kingdom against an impending invasion.<br> 
 										<br> This story was put together by the following DevOps Engineers from Koftown Technology Inc.:</p>
@@ -231,7 +231,6 @@
 										<li><a href="/docs/emma.html">Emmanuel ( DevOps Professor is back )</a></li>
 										<li><a href="/docs/theo.html">Theo ( DevOps Koftown Messi, i will commit my end to end CI/CD tomorrow )</a></li>
 										<li><a href="/docs/pat.html">Pat ( DevOps striker )</a></li>
-
 			
 										<hr class="uk-article-divider">
 			
