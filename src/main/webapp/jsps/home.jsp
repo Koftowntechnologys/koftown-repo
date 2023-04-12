@@ -305,14 +305,14 @@
 											<li><a><b>Troubleshooting and optimization:</b> Diagnosing and resolving issues related to Jenkins-GitHub integration, optimizing build performance, and implementing best practices to ensure smooth, reliable, and efficient workflows.</a></li>
 												<br>
 											My experience in Git also includes <br> 
-											<li><a>Repository management: Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
-											<li><a>Branching and merging: Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
-											<li><a>Conflict resolution: Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
-											<li><a>Committing and reviewing code: Making code changes, staging, and committing them to the repository, as well as reviewing team members' code through pull requests.</a></li>
-											<li><a>Tagging and versioning: Using tags to mark specific commits, such as releases or important milestones, and managing software versions through Git.</a></li>
-											<li><a>Automation and scripting: Writing scripts (e.g., using Bash or Python) to automate Git operations, enforce code quality standards, or perform other tasks related to repository management.</a></li>
-											<li><a>Git best practices: Following best practices for commit messages, branch naming conventions, and repository organization to ensure a clean and maintainable codebase.</a></li>
-											<li><a>Collaboration with remote teams: Collaborating with geographically distributed teams using Git, managing code contributions,and addressing challenges related to working with remote repositories.</a></li>
+											<li><a><b>Repository management:</b> Creating, cloning, and managing local and remote Git repositories, as well as configuring access control and permissions for team members.</a></li>
+											<li><a><b>Branching and merging:</b> Utilizing Git branching strategies  to manage code changes, and performing merge operations to integrate code changes from different branches.</a></li>
+											<li><a><b>Conflict resolution:</b> Addressing and resolving merge conflicts that arise during the integration of code changes from different branches or team members.</a></li>
+											<li><a><b>Committing and reviewing code:</b> Making code changes, staging, and committing them to the repository, as well as reviewing team members' code through pull requests.</a></li>
+											<li><a><b>Tagging and versioning:</b> Using tags to mark specific commits, such as releases or important milestones, and managing software versions through Git.</a></li>
+											<li><a><b>Automation and scripting:</b> Writing scripts (e.g., using Bash or Python) to automate Git operations, enforce code quality standards, or perform other tasks related to repository management.</a></li>
+											<li><a><b>Git best practices:</b> Following best practices for commit messages, branch naming conventions, and repository organization to ensure a clean and maintainable codebase.</a></li>
+											<li><a><b>Collaboration with remote teams:</b> Collaborating with geographically distributed teams using Git, managing code contributions,and addressing challenges related to working with remote repositories.</a></li>
 											<br>
 												Some challenges and troubleshooting issues I have faced in Jenkins are 
 												<p>
