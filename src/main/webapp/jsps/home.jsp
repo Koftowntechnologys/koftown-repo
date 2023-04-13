@@ -326,11 +326,18 @@
 			
 										<h2 id="messi"><a class="uk-link-reset">DevOps Messi</a></h2>
 									<div class="uk-overflow-container">
-											<p> The Berbers are indigenous herders found in North Africa. Their population exists in clusters from the Pacific in Morocco to the Siwa Oasis in Egypt, with a large concentration in the middle of the Sahara Desert straddling the borders of northern Niger Tunisia and Libya.
-												Berber is a large, nonhomogenous cultural group that encompasses most of the culture and history of northern Africa, with the unifying cultural force being a shared language and Berber heritage. The Berber language is believed to have spread out from the Nile Valley in Egypt around 2000 BCE as people moved to settle the land of Northern Africa. 
-												These are the people that the Greeks, Carthaginians, and Romans encountered when those cultures made first contact with the African coastline. The Carthaginians maintained a military presence in a region called Mauretania from around the 6th century to the 3rd century BCE before being absorbed by the Roman territory of Numidia in 203 BCE. 
-												Numidian horsemanship and breeding influenced Roman cavalry tactics and development; and Numidian cavalry generals, like Maharbal under Hannibal, proved their tactical brilliance and mastery of horsemanship.</p>
-										</div>
+											<p>  As a DevOps engineer, I work on Java based projects in my environment. I work with a team of 6 DevOps engineers, 
+												2 Developers and 1 scrum master. Our job is to develop, test, build, deploy and monitoring applications. Is all about
+												 automation in my environment, the developers in my team commit their codes in our SCM (Source Code Management) Github. 
+												 Once the codes are committed, Jenkins, which serves as our CI/CD tool will pull the codes to start the continuous
+												  integration automation process. Maven will build packages like jar, war and ear and then SonaQube will then perform 
+												  code quality testing. Once the codes have passed the testing, artifacts are created and uploaded to our artifactory (Nexus) 
+												  or the backup server to end our continuous integration process. Once the continuous integration ends, the continuous deployment starts.
+												  
+												 
+												 
+												 
+												 
 
 										<hr class="uk-article-divider">
 			
