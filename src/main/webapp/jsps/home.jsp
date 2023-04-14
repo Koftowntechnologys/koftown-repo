@@ -236,7 +236,7 @@
 			
 										<h2 id="benjamin"><a class="uk-link-reset">Benjamin Groovy</a></h2>
 									<div class="uk-overflow-container">
-											<p>  This is a work in progress..lol  
+											<p>   
 												    In my environment, Jenkins is the tool that help us to automate most of our processes.
 												In automation, Jenkins help with continous integration/continous Delivery process in that 
 												anytime developers commit codes into Github, Jenkins is able to pull those codes to make a 
