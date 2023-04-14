@@ -333,7 +333,7 @@
 												  integration automation process. Maven will build packages like jar, war and ear and then SonaQube will then perform 
 												  code quality testing. Once the codes have passed the testing, artifacts are created and uploaded to our artifactory (Nexus) 
 												  or the backup server to end our continuous integration process. Once the continuous integration ends, the continuous deployment starts.
-												  
+												  We use Ngenix as a load balancer in my environment and tomcat to deploy applications.
 												 
 												 
 												 
